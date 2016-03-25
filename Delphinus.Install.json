@@ -1,0 +1,33 @@
+{
+    "search_pathes": 
+    [
+        {
+            "pathes": "Source",
+            "platforms": "Win32"
+        }
+    ],
+    "browsing_pathes": 
+    [
+        {
+            "pathes": "Source",
+            "platforms": "Win32"
+        }
+    ],
+
+    "source_folders":
+    [
+        {
+            "folder": "Source",
+            "base": "Source",
+            "recursive": true,
+            "filter": "*;*.*"
+        }
+    ],
+
+    "projects":
+    [
+        {
+            "project": "Source\\UbuntuProgressPackage.dproj"
+        }
+    ]
+}

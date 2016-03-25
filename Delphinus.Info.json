@@ -1,0 +1,10 @@
+{
+    "id": "{E8D7EDD1-C915-4492-804B-5C9D825DD86F}",
+    "name": "Ubuntu Progress",
+    "license_type": "own",
+    "license_file": "License.md",
+    "platforms": "Win32",
+    "package_compiler_min": 15,
+    "compiler_min": 15,
+    "first_version": "1.2"
+}
