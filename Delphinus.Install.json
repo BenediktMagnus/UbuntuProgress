@@ -18,7 +18,6 @@
     [
         {
             "folder": "Source",
-            "base": "Source",
             "recursive": true,
             "filter": "*;*.*"
         }
