@@ -14,7 +14,7 @@ Erstellt mit Codegear Delphi 2009
 
 Weitere Informationen: http://www.delphipraxis.net/topic136779.html
 
--Delphinus-Support-
+-Delphinus-NOT-Support-
 
 Versionsinformationen:
 + Neu
